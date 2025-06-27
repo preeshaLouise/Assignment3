@@ -1,0 +1,1 @@
+first command to remote repository from local machine
